@@ -1,0 +1,17 @@
+Un algoritmo es un conjunto especifico 
+de instrucciones que escribimos en el 
+ordenador para decirle que es lo que debe hacer 
+
+Estructura super basica
+1. input
+2. instructions
+3. execution
+4. output 
+
+Algorithms basics 
+1. simple recursive algorithms 
+2. algorithms within data structures 
+3. divide & conquer
+4. creedy algorithms 
+5. dynamic programming
+
