@@ -12,7 +12,8 @@ def binary_search(arr, start, end, target):
       
       
 arreglo = [100,10,90,20,80,30,70,40,60,50]
-objetivo = 10
+objetivo = 90
+
 resultado = binary_search(sorted(arreglo, reverse = False), 0, len(arreglo) -1 , objetivo )
 if resultado != -1:
     print(f"El elemento esta presente en el arreglo: {resultado}")
