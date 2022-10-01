@@ -10,8 +10,8 @@ def bubble_sort(x):
   for i in x:
     for j in range(len(x) - 1):
       iteraciones += 1
-      if x[j] > x[j+1]:
-        swap(x, j, j +1)
+      if x[j] > x[j + 1]:
+        swap(x, j, j + 1)
   return x, iteraciones
   
   
