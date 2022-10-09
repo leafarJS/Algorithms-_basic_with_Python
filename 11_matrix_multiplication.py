@@ -15,7 +15,7 @@ for i in range(len(x)):
   for j in range(len(y[0])):
     #iterar through rows of Y
     for k in range(len(y)):
-      m[i][j] += x[i][j] * y[k][j]
+      m[i][j] += x[i][k] * y[k][j]
 
 
 for end in m:
