@@ -1,1 +1,1 @@
-valor, peso, capacidad))
+numerador - denominador
