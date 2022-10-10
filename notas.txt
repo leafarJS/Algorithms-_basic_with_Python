@@ -15,3 +15,11 @@ Algorithms basics
 4. creedy algorithms 
 5. dynamic programming
 
+
+Lenguajes de programación dinamicos,que puede tener progración lenguajes dinamicos o estaticos (python es dinamico)
+
+-recusion 
+-top-down with memoization
+bottom-up with tabulation 
+
+programación dinamica como una metodologia, que se ocupa de analizar un problema mediante el desarrollo de algoritmos basados en tecnicas de programación dinamicas
